@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_converter">Currency converter</string>
+    <string name="my_balances">MY BALANCES</string>
+    <string name="currency_exchange">CURRENCY EXCHANGE</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="submit">Submit</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="network_error_message">Check your network connection</string>
+    <string name="ok">OK</string>
+    <string name="insufficient_balance">Insufficient balance</string>
+    <string name="conversion_message">You have converted %1$s %2$s to %3$s %4$s.</string>
+    <string name="conversion_message_fee">Commission Fee: %1$s %2$s</string>
+</resources>
